@@ -198,8 +198,8 @@ https://github.com/Leo479-hub/rva-s01-LeonardoRau
 
 ## Evidencias
 
-Las capturas de pantalla se encuentran en la carpeta `capturas/` de esta entrega.
----
+Las capturas de pantalla se encuentran en la carpeta capturas de esta entrega.
+
 
 ## Preguntas de reflexión
 
